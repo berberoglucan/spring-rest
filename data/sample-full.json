@@ -1,0 +1,15 @@
+{
+	"id": 14,
+	"firstName": "Can",
+	"lastName" : "Berberoglu",
+	"active" : true,
+	"address": {
+		"street": "Karaagacli",
+		"city": "Istanbul",
+		"zip": "34200",
+		"country" : "Turkey"
+	},
+	"languages": ["Java", "C", "Python", "JS"] ,
+	"ignoreProperties": "this property was ignored",
+	"ignoreUnknown" : "Ignore unknown properties"
+}
